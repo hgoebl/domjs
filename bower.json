@@ -1,0 +1,38 @@
+{
+    "name": "dom",
+    "title": "dom",
+    "description": "a wishful jQuery inspired DOM Library for modern browers",
+    "version": "0.1.0",
+    "homepage": "http://http://domenlightenment.com/#12",
+    "author": {
+        "name": "Cody Lindley",
+        "url": "http://http://domenlightenment.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codylindley/domjs"
+    },
+    "bugs": {"url": "https://github.com/codylindley/domjs/issues"},
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "keywords": [
+        "dom",
+        "tiny",
+        "micro",
+        "modern",
+        "evergreen"
+    ],
+    "main": "build/dom.js",
+    "ignore": [
+        "**/.*",
+        "source",
+        "node_modules",
+        "test",
+        "grunt.js",
+        "package.json"
+    ]
+}

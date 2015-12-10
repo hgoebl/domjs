@@ -1,6 +1,6 @@
-/*dom - v0.1.0 - 2012-11-15
+/*!dom - v0.1.0 - 2015-12-10
 * http://http://domenlightenment.com/#12
-* Copyright (c) 2012 Cody Lindley; Licensed MIT */
+* Copyright (c) 2015 Cody Lindley; Licensed MIT */
 
 (function(win){
 
