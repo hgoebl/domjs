@@ -32,7 +32,7 @@
         "source",
         "node_modules",
         "test",
-        "grunt.js",
+        "Gruntfile.js",
         "package.json"
     ]
 }
