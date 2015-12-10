@@ -29,7 +29,7 @@
     "main": "builds/dom.js",
     "ignore": [
         "**/.*",
-        "builds",
+        "builds/*.min.js",
         "source",
         "node_modules",
         "test",
